@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  username: 'FaithNzula',\n  apiUrl: 'https://api.github.com'\n};","map":null,"metadata":{},"sourceType":"module"}

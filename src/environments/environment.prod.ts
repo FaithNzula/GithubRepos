@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  username: 'FaithNzula',
+  apiUrl: 'https://api.github.com'
 };
